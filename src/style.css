@@ -1,3 +1,8 @@
 .btn {
     box-shadow: 3px 3px 4px 1px gray;
 }
+
+.card{
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.2);
+
+}
